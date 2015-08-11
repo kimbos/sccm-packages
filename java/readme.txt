@@ -13,6 +13,8 @@
 
 5. Copy the MSI-installer over to your SCCM server
 
+6. Create a package in SCCM and point the program to "install.bat"
+
 
 IMPORTANT!
 Do not rename the MSI-file, it can cause problems if you want to uninstall it later.
